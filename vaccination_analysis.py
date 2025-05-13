@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
 """
 This script analyzes vaccination rollouts across selected countries,
 plotting cumulative vaccinations over time and comparing vaccination rates.
