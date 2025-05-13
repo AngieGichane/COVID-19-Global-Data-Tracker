@@ -1,6 +1,4 @@
 """
-COVID-19 Global Data Tracker - Data Collection
-
 This script fetches the COVID-19 dataset from Our World in Data.
 It provides functions to download the latest COVID-19 data and save it locally.
 """
